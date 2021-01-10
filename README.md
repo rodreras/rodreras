@@ -16,4 +16,4 @@
 - 💻 I code with Python and I'm begginer with SQL.
 - 🌎 Besides programming, I have experience with QGIS and spatial analysis.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodreras)
+[![Rodreras's github stats](https://github-readme-stats.vercel.app/api?username=rodreras)](https://github.com/anuraghazra/github-readme-stats)
