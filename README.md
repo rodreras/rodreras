@@ -1,10 +1,12 @@
 # [Rodrigo Brust](https://www.linkedin.com/in/rodrigobrust/) 
 
-[Linkedin][https://www.linkedin.com/in/rodrigobrust/]
-
-[Kaggle][https://www.kaggle.com/rodrigobrust/]
-
 ### Hi there 👋 Welcome to my GitHub Profile! 
+
+[Linkedin](https://www.linkedin.com/in/rodrigobrust/)
+
+[Kaggle](https://www.kaggle.com/rodrigobrust/)
+
+
 
 ### About me
 
