@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at MDGeo, a brazilian company that operates in the Hydrogeology industry.
 - 🌱 I’m currently learning Machine Learning algorithms and developing skills at data analysis and spatial analysis.
-- 💬 I'm Brazilian and I'm studying my last year of Geology at UFRRJ.
+- 💬 I'm Brazilian Geologist
 - 🌎 Besides programming, I have experience with QGIS and spatial analysis.
 
 - Languages:
