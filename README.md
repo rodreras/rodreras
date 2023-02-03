@@ -4,7 +4,7 @@
 
 #### About me
 
-- 🔭 I’m currently working at MDGeo, a brazilian company that operates in the Hydrogeology industry.
+- 🔭 I’m currently looking for internships in Earth Observation, Remote Sensing and Spatial Analysis area
 - 🌱 I’m currently learning Machine Learning algorithms and developing skills at data analysis and spatial analysis.
 - 💬 I'm Brazilian Geologist
 - 🌎 Besides programming, I have experience with QGIS and spatial analysis.
