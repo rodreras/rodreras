@@ -4,9 +4,9 @@
 
 #### About me
 
-- 🔭 I’m currently looking for internships in Earth Observation, Remote Sensing and Spatial Analysis area
-- 🌱 I’m currently learning Machine Learning algorithms and developing skills at data analysis and spatial analysis.
-- 💬 I'm Brazilian Geologist
+- 🔭 I’m a Geodata Scientist and Remote Sensing Data Engineer
+- 🌱 I have 5 years of experience with GIS and EO.
+- 💬 I'm Brazilian  and my background is Geology
 - 🌎 Besides programming, I have experience with QGIS and spatial analysis.
 
 - Languages:
