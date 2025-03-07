@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Geodata Scientist and Remote Sensing Data Engineer
 - 🌱 I have 5 years of experience with GIS and EO.
-- 💬 I'm Brazilian  and my background is Geology
+- 💬 I'm Brazilian and my background is Geology
 - 🌎 Besides programming, I have experience with QGIS and spatial analysis.
 
 - Languages:
@@ -26,6 +26,12 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+- 2025 Study Track
+
+  - [Docker](https://github.com/rodreras/docker_studies)
+  - [Remote Sensing and GEE](https://github.com/rodreras/remote-sensing-studies)
+  - [ML and DL](https://github.com/rodreras/machine-deep-learning-studies)
+  - [Spatial SQL]()
 
 
 #### Get in touch
